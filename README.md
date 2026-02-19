@@ -29,14 +29,3 @@ The goal of this project is to explore the internal mechanics of regular express
 ### Status
 
 This project is a work in progress and focuses on clarity and educational value rather than full regex feature parity or performance optimization.
-
----
-
-If you want, I can also:
-
-* Shorten it for a **repo tagline**
-* Add **usage examples**
-* Write a **Features / Grammar / Architecture** section
-* Polish it for a **portfolio project**
-
-Just tell me 👍
